@@ -1,1 +1,2 @@
-# Ansible--Automate-of-Project7-to-10
+# Ansible Automation of Project7 to Project10
+In this project, I configured an Ansible client server as a Bastion Host and and create an Ansible playbook to automate servers configurations for 5 Servers (RedHat and Ubuntu).
