@@ -1,4 +1,4 @@
-PROJECT 11: Ansible Automation of Project7 to 10
+## PROJECT 11: Ansible Automation of Project7 to 10
 
 First Step: Install and configure Ansible client to act as a Jump Server/Bastion Host.
 
